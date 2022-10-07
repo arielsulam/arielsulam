@@ -1,6 +1,6 @@
 # Hi there, I´m Ariel 👋 
 
-## I'm a Developer💻, tech enthusiast 🧲 and a a Mechanical Engineer🔧🔩!
+## I'm a Developer💻, tech enthusiast 🧲 and a Mechanical Engineer🔧🔩!
 
 - 🌱 I’m currently learning everything 🤣 . 
 - 🎨 My Languages and tools are:  JAVA - OOP - UML - SpringBoot - Maven - ORM Hibernate - Rest APIs - SQL(PostgreSQL) and NoSQL (MongoDB) Databases - GIT
